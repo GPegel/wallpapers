@@ -167,15 +167,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/home/user/git/wallpapers/pictures/831759-hulk.jpg</from>
-    <to>/home/user/git/wallpapers/pictures/wallpaper.jpg</to>
+    <to>/home/user/git/wallpapers/pictures/deadpool.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>/home/user/git/wallpapers/pictures/wallpaper.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/deadpool.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/home/user/git/wallpapers/pictures/wallpaper.jpg</from>
-    <to>/home/user/git/wallpapers/pictures/deadpool.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/deadpool.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/439825.jpg</to>
   </transition>
 </background>

@@ -9,164 +9,164 @@
   </starttime>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/439825.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/439825.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/439825.jpg</from>
-    <to>~/git/wallpapers/pictures/orig_56534.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/439825.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/orig_56534.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/orig_56534.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/orig_56534.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/orig_56534.jpg</from>
-    <to>~/git/wallpapers/pictures/wallpaper.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/orig_56534.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/wallpaper.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/wallpaper.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/wallpaper.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/wallpaper.jpg</from>
-    <to>~/git/wallpapers/pictures/Thor-Pictures.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/wallpaper.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/Thor-Pictures.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/Thor-Pictures.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/Thor-Pictures.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/Thor-Pictures.jpg</from>
-    <to>~/git/wallpapers/pictures/the-incredible-hulk-desktop-wallpapers-of-high-resolution-free.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/Thor-Pictures.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/the-incredible-hulk-desktop-wallpapers-of-high-resolution-free.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/the-incredible-hulk-desktop-wallpapers-of-high-resolution-free.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/the-incredible-hulk-desktop-wallpapers-of-high-resolution-free.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/the-incredible-hulk-desktop-wallpapers-of-high-resolution-free.jpg</from>
-    <to>~/git/wallpapers/pictures/The-Avengers-Thor-Hammer-HD-Wallpaper.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/the-incredible-hulk-desktop-wallpapers-of-high-resolution-free.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/The-Avengers-Thor-Hammer-HD-Wallpaper.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/The-Avengers-Thor-Hammer-HD-Wallpaper.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/The-Avengers-Thor-Hammer-HD-Wallpaper.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/The-Avengers-Thor-Hammer-HD-Wallpaper.jpg</from>
-    <to>~/git/wallpapers/pictures/shield_of_captain_america-HD.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/The-Avengers-Thor-Hammer-HD-Wallpaper.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/shield_of_captain_america-HD.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/shield_of_captain_america-HD.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/shield_of_captain_america-HD.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/shield_of_captain_america-HD.jpg</from>
-    <to>~/git/wallpapers/pictures/loki-wallpapers-hd.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/shield_of_captain_america-HD.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/loki-wallpapers-hd.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/loki-wallpapers-hd.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/loki-wallpapers-hd.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/loki-wallpapers-hd.jpg</from>
-    <to>~/git/wallpapers/pictures/iron-man-wallpaper-full-hd-582.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/loki-wallpapers-hd.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/iron-man-wallpaper-full-hd-582.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/iron-man-wallpaper-full-hd-582.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/iron-man-wallpaper-full-hd-582.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/iron-man-wallpaper-full-hd-582.jpg</from>
-    <to>~/git/wallpapers/pictures/iron-man-iron-man-wallpapers-wallpaper-images-wallpaper-41175.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/iron-man-wallpaper-full-hd-582.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/iron-man-iron-man-wallpapers-wallpaper-images-wallpaper-41175.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/iron-man-iron-man-wallpapers-wallpaper-images-wallpaper-41175.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/iron-man-iron-man-wallpapers-wallpaper-images-wallpaper-41175.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/iron-man-iron-man-wallpapers-wallpaper-images-wallpaper-41175.jpg</from>
-    <to>~/git/wallpapers/pictures/iron-man-iron-man-wallpaper-helmet-wallpapers-desktop-wallpaper-41116.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/iron-man-iron-man-wallpapers-wallpaper-images-wallpaper-41175.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/iron-man-iron-man-wallpaper-helmet-wallpapers-desktop-wallpaper-41116.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/iron-man-iron-man-wallpaper-helmet-wallpapers-desktop-wallpaper-41116.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/iron-man-iron-man-wallpaper-helmet-wallpapers-desktop-wallpaper-41116.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/iron-man-iron-man-wallpaper-helmet-wallpapers-desktop-wallpaper-41116.jpg</from>
-    <to>~/git/wallpapers/pictures/hawkeye_in_the_avengers-wallpaper-1920x10801.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/iron-man-iron-man-wallpaper-helmet-wallpapers-desktop-wallpaper-41116.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/hawkeye_in_the_avengers-wallpaper-1920x10801.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/hawkeye_in_the_avengers-wallpaper-1920x10801.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/hawkeye_in_the_avengers-wallpaper-1920x10801.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/hawkeye_in_the_avengers-wallpaper-1920x10801.jpg</from>
-    <to>~/git/wallpapers/pictures/Full-Avengers-Line-Up-and-SHIELD-poster-from-the-Movie-1920x1080-wallpaper-l.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/hawkeye_in_the_avengers-wallpaper-1920x10801.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/Full-Avengers-Line-Up-and-SHIELD-poster-from-the-Movie-1920x1080-wallpaper-l.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/Full-Avengers-Line-Up-and-SHIELD-poster-from-the-Movie-1920x1080-wallpaper-l.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/Full-Avengers-Line-Up-and-SHIELD-poster-from-the-Movie-1920x1080-wallpaper-l.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/Full-Avengers-Line-Up-and-SHIELD-poster-from-the-Movie-1920x1080-wallpaper-l.jpg</from>
-    <to>~/git/wallpapers/pictures/captain-america-wallpaper-picture-gallery-nap2c1mi.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/Full-Avengers-Line-Up-and-SHIELD-poster-from-the-Movie-1920x1080-wallpaper-l.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/captain-america-wallpaper-picture-gallery-nap2c1mi.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/captain-america-wallpaper-picture-gallery-nap2c1mi.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/captain-america-wallpaper-picture-gallery-nap2c1mi.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/captain-america-wallpaper-picture-gallery-nap2c1mi.jpg</from>
-    <to>~/git/wallpapers/pictures/Batman-Wallpaper-PC.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/captain-america-wallpaper-picture-gallery-nap2c1mi.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/Batman-Wallpaper-PC.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/Batman-Wallpaper-PC.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/Batman-Wallpaper-PC.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/Batman-Wallpaper-PC.jpg</from>
-    <to>~/git/wallpapers/pictures/batman-movies-wallpapers-wallpaper-minimalistic-batman-wallpaper-42748.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/Batman-Wallpaper-PC.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/batman-movies-wallpapers-wallpaper-minimalistic-batman-wallpaper-42748.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/batman-movies-wallpapers-wallpaper-minimalistic-batman-wallpaper-42748.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/batman-movies-wallpapers-wallpaper-minimalistic-batman-wallpaper-42748.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/batman-movies-wallpapers-wallpaper-minimalistic-batman-wallpaper-42748.jpg</from>
-    <to>~/git/wallpapers/pictures/avengers-3.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/batman-movies-wallpapers-wallpaper-minimalistic-batman-wallpaper-42748.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/avengers-3.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/avengers-3.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/avengers-3.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/avengers-3.jpg</from>
-    <to>~/git/wallpapers/pictures/831759-hulk.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/avengers-3.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/831759-hulk.jpg</to>
   </transition>
   <static>
     <duration>600.0</duration>
-    <file>~/git/wallpapers/pictures/831759-hulk.jpg</file>
+    <file>/home/user/git/wallpapers/pictures/831759-hulk.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>~/git/wallpapers/pictures/831759-hulk.jpg</from>
-    <to>~/git/wallpapers/pictures/wallpaper.jpg</to>
+    <from>/home/user/git/wallpapers/pictures/831759-hulk.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/wallpaper.jpg</to>
   </transition>
 </background>

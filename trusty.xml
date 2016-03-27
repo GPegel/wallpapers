@@ -169,4 +169,13 @@
     <from>/home/user/git/wallpapers/pictures/831759-hulk.jpg</from>
     <to>/home/user/git/wallpapers/pictures/wallpaper.jpg</to>
   </transition>
+  <static>
+    <duration>600.0</duration>
+    <file>/home/user/git/wallpapers/pictures/wallpaper.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/home/user/git/wallpapers/pictures/wallpaper.jpg</from>
+    <to>/home/user/git/wallpapers/pictures/deadpool.jpg</to>
+  </transition>
 </background>
